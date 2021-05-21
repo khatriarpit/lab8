@@ -1,0 +1,14 @@
+target
+tmp
+build
+.idea
+*.iml*
+*.project
+*.classpath
+*.settings
+*.log
+state
+local.db
+screenshots/*
+log
+.idea
